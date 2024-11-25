@@ -30,6 +30,6 @@ Aucun prérequis spécifique. L’application fonctionne directement dans un nav
 
 ## 🌐 Démo en ligne
 
-https://www.florianllimos.fr/securepass
+https://www.florianllimos.fr/tapmaster
 
 🎉 Merci d'utiliser Tap Master ! Si vous avez des suggestions ou des bugs à signaler, ouvrez une issue dans la section Issues.
